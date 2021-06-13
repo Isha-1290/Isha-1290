@@ -1,4 +1,4 @@
-## Hi there:wave:
+# Hi there:wave:
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha-1290&show_icons=true&theme=radical)
 <!--
 **Isha-1290/Isha-1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

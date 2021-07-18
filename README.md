@@ -2,7 +2,6 @@
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha-1290&show_icons=true&theme=radical&count_private=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-1290&theme=radical" width="335px" data-canonical-><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Isha-1290&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=E7E7E7FF&sideLabels=EFEFE6&dates=4F5D78&stroke=7F1DA2)](https://git.io/streak-stats)<br>
 
 <!--
 
